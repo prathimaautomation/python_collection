@@ -1,6 +1,4 @@
-- How to create a new project in Pycharm
- `click on file` then `new project` then
- 
+
  # Python Data Collections
  - Lists
  - Tuples
