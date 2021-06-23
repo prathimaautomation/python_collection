@@ -1,6 +1,4 @@
-- How to create a new project in Pycharm
- `click on file` then `new project` then
- 
+
  # Python Data Collections
  - Lists
  - Tuples
@@ -57,6 +55,7 @@ print(essentials)
 ```
 
 # Lists are MUTABLE and Tuples are IMMUTABLE 
+<<<<<<< HEAD
 
 # Dictionaries and Sets both are Data collections in Python
 
@@ -120,3 +119,5 @@ students_1 = {
 - Python also has Frozen sets
 - Syntax `name = value([1, 2, 3, 4])`
 - Create a Frozen-set set and print the values with the type of the sets
+=======
+>>>>>>> 213a90f3ea5effd844035430c1a679caa31aa5f1
